@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langchain_huggingface
+langchain-chroma
+langchain-groq
+groq
+streamlit
+beautifulsoup4
+requests
+chromadb
+sentence-transformers
+numpy
